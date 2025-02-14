@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dlanor533
+- 👋 Hi, I’m Ronald.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning HTML.
 - 💞️ I’m looking to collaborate on HTML.
